@@ -1,0 +1,20 @@
+{
+  "name": "jackng",
+  "description": "Serving static content via html files",
+  "version": "0.0.1",
+  "author": "Jack Sze Yeung Ng",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szeyeungng/jackng.git"
+  },
+  "license": "MIT",
+
+  "main": "server.js",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
